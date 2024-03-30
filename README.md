@@ -1,3 +1,3 @@
  Setup Instructions:
-# Python 3.12.1
-# Windows 11 Home
+ Python 3.12.1
+ Windows 11 Home
